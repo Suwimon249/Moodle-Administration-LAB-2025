@@ -258,7 +258,7 @@ services:
       MOODLE_DB_HOST: db # ระบุเป็น db เพราะให้เชื่อมต่อไปยัง container name ที่ชื่อ db
       MOODLE_DB_NAME: moodle
       MOODLE_DB_USER: moodleuser
-      MOODLE_DB_PASSWORD: moodlepassword
+      MOODLE_DB_PASSWORD: moodlepassword # แก้ไขรหัสผ่านให้เป็นของตนเอง ให้ตรงกับรหัสผ่าน MYSQL_PASSWORD ด้านบน
     volumes:
       - moodledata:/moodledata
     depends_on:
