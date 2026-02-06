@@ -1,4 +1,4 @@
-# ใบงานการทดลอง
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/c3623706-32a2-40d4-a532-cc7a3a36620f" /># ใบงานการทดลอง
 # การติดตั้งและจัดการ Moodle LMS ด้วย Docker Compose
 
 ---
@@ -797,6 +797,8 @@ Programming, Python, Data Science
 ```bash
  รูปหน้า ผลการสร้าง User ใหม่
 ```
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1bc53dbf-9177-4024-a8cd-35f16cfba8de" />
+
 
 **วิธีที่ 2: Upload Users (CSV)**
 
@@ -820,6 +822,8 @@ student003,Pass@123,สมศักดิ์,ขยัน,student003@example.com
 ```bash
  รูปหน้า ผลการ Upload Users
 ```
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/566f41d2-794f-40d7-997e-f0f4132410cb" />
+
 
 #### 6.4.3 การลงทะเบียนเรียน (Enrolment)
 
@@ -880,7 +884,10 @@ Cohort = กลุ่มผู้ใช้ (เช่น ม.1, ม.2 หรื�
    **บันทึกผลการทดลอง 11:**
 ```bash
  รูปหน้า ผลการ Upload Users และเพิ่มคอลัมน์ cohort
+
 ```
+<img width="1910" height="1066" alt="image" src="https://github.com/user-attachments/assets/d072710e-a740-4090-a66d-16495bd03575" />
+
 ---
 
 
