@@ -480,7 +480,7 @@ docker volume inspect moodle-docker_moodledata
 ```bash
  รูปหน้า Dashboard 
 ```
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/77062046-ef4d-457c-a192-83eb2b5b6ef1" />
 ---
 
 ## 6. การตั้งค่าและดูแลระบบ
@@ -623,6 +623,8 @@ h1 {
 ```bash
  รูป ผลการปรับแต่ง Theme
 ```
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c1d95885-3d9c-4d28-9578-df57281db6d1" />
+
 ---
 
 ### 6.2 การจัดการ Course Categories และ Courses
