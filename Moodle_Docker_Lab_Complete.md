@@ -480,7 +480,7 @@ docker volume inspect moodle-docker_moodledata
 ```bash
  รูปหน้า Dashboard 
 ```
-
+![Uploading image.png…]()
 ---
 
 ## 6. การตั้งค่าและดูแลระบบ
